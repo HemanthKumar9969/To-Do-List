@@ -28,13 +28,13 @@
     background: white;
   }
   form button {
-    color: #ff6f47;
+    color: #3498DB ;
     background: #f7fffe;
     cursor: pointer;
     transition: all 0.3s ease;
   }
   form button:hover {
-    background: #ff6f47;
+    background: #3498DB ;
     color: white;
   }
   .todo-container {
@@ -67,7 +67,7 @@
   
   .trash-btn,
   .complete-btn {
-    background: #ff6f47;
+    background: #3498DB ;
     color: white;
     border: none;
     padding: 1rem;
@@ -115,7 +115,7 @@
     overflow: hidden;
   }
   select {
-    color: #ff6f47;
+    color: #3498DB ;
     font-family: "Poppins", sans-serif;
     cursor: pointer;
     width: 12rem;
@@ -127,7 +127,7 @@
     top: 0;
     right: 0;
     padding: 1rem;
-    background: #ff6f47;
+    background: #3498DB ;
     cursor: pointer;
     pointer-events: none;
   }
