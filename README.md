@@ -1,10 +1,8 @@
-# Hemanth's To-Do list web app 
+# To-Do list web app 
 
 This to-do list created using html, css, & java  script.
 
-How to run ?
-
-To run just open vs code.
+Useage:
 
 go to index.html file.
 
