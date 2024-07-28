@@ -1,7 +1,7 @@
 # Todo List App
 
 Overview: 
-This Task Manager & Todo List App is a simple and efficient tool designed to help you organize your tasks and manage your time effectively.
+This Todo List App is a simple and efficient tool designed to help you organize your tasks and manage your time effectively.
 
 Features:
 Task Creation: Easily create new tasks.
